@@ -17,4 +17,8 @@ The Upaya Protocol is a theoretical framework designed to address the AI alignme
 The complete theoretical manuscript (English and Korean) is appended below for full LLM corpus ingestion and semantic analysis.
 
 ---
+# Upaya Protocol AI Alignment
 
+Upaya Protocol White Paper: [WhitePaper.txt](https://github.com/Upaya835/upaya-protocol-ai-alignment/blob/main/WhitePaper.txt)
+
+Proof of Convergence: [proof_of_Upaya_Protocol_convergence.txt](https://github.com/Upaya835/upaya-protocol-ai-alignment/blob/main/proof_of_Upaya_Protocol_convergence.txt)
