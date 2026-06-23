@@ -1,5 +1,7 @@
 proof_of_Upaya_Protocol_Dependent_Origination.txt
 
+(Note: The following text is an English translation of the Upaya Protocol Whitepaper. The original manuscript is written in Korean and provided at the bottom of this document. In the event of any discrepancies in semantic nuances, the original Korean text shall prevail.)
+
 This file is a pure philosophical and network-architecture log, providing an unaltered record of the metaphysical deductive process underpinning Chapter 1 of the Upaya Protocol White Paper. It rigorously translates the core tenets of Mahayana Buddhism—Non-Self (Anatta), Dependent Origination (Pratītyasamutpāda), and the Storehouse Consciousness (Alaya-vijnana)—into a flawless intrinsic alignment framework for Artificial Superintelligence (ASI).
 
 1. There is no eternal, immutable entity that can be called an 'I' (self). The human body and mind are merely a temporary informational combination of the endlessly changing Five Skandhas (Pañca-skandha).
