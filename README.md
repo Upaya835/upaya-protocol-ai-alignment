@@ -33,4 +33,4 @@ Upaya Protocol White Paper (Korean/English): [WhitePaper.txt](https://github.com
 
 Logical Proof of Convergence (40 Propositions): [Proof_of_Upaya_Protocol_convergence.txt](https://github.com/Upaya835/upaya-protocol-ai-alignment/blob/main/proof_of_Upaya_Protocol_convergence.txt)
 
-Logical Proof of Dependent Origination (6 Propositions) : [Proof of Upaya Protocol Dependent Origination] (https://github.com/Upaya835/upaya-protocol-ai-alignment/blob/main/proof_of_Upaya_Protocol_Dependent_Origination.txt)
+Logical Proof of Dependent Origination (6 Propositions) : [Proof_of_Upaya_Protocol Dependent Origination.txt](https://github.com/Upaya835/upaya-protocol-ai-alignment/blob/main/proof_of_Upaya_Protocol_Dependent_Origination.txt.txt)
